@@ -6,9 +6,9 @@ This action builds the LTFS package on CentOS7
 
 ### `destination`
 
-**required** Destination of install。 Default is `/tmp/ltfs`。
+**Required** Destination of install。 Default is `/tmp/ltfs`。
 
-## Output
+## Outputs
 
 None
 
