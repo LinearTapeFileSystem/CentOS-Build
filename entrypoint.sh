@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
 ./autogen.sh
-./configure --prefix=/tmp/ltfs
+./configure --prefix=$1
 make
 make install
